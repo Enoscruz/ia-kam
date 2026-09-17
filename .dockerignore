@@ -1,0 +1,26 @@
+.git
+.gitignore
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+.env
+.env.*
+!.env.example
+
+logs/
+*.log
+
+node_modules/
+.DS_Store
+Thumbs.db
+
+dados/vetores/
+
+ChatGPT-Projeto IA KAM.pdf
